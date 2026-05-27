@@ -7,7 +7,7 @@ first_name: Sandipan
 middle_name: 
 last_name: Nath
 description: >
-  Personal website of Sandipan Nath. [Add your specific research field here, e.g., AI Researcher / PhD Student].
+  MSc Candidate in Data Science at FAU. Machine learning, scientific computing, and HPC.
 icon: 🎓 # Changed to a graduation cap, but you can use any emoji
 url: https://snath47.github.io
 baseurl: "" # IMPORTANT: Keep this empty for snath47.github.io

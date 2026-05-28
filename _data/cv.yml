@@ -46,12 +46,11 @@ cv:
           - University of Alberta Undergraduate Scholarship (2019)
           - Department of Mathematical Statistical Sciences Scholarship (2018)
 
-    Work:
-      - institution: Siemens Energy Global A.G.
+    Experience:
+      - company: Siemens Energy Global A.G.
         location: Erlangen, Germany
         url: https://www.siemens-energy.com/
-        area: HVDC System Design
-        studyType: Automation and Data Science Developer (Working Student)
+        position: Automation and Data Science Developer (Working Student)
         start_date: 2025-01
         end_date: Present
         highlights:
@@ -60,10 +59,9 @@ cv:
           - Developed an interactive dashboard UI to manage tool interoperability via the database
           - 15 hours/week
 
-      - institution: GaoTek Inc.
+      - company: GaoTek Inc.
         location: Toronto, Canada (Remote)
-        area: Software Development
-        studyType: Software Development Intern
+        position: Software Development Intern
         start_date: 2023-05
         end_date: 2023-09
         highlights:
@@ -72,10 +70,9 @@ cv:
           - Collaborated with product and design teams using AGILE methodology
           - 20 hours/week
 
-      - institution: University of Alberta
+      - company: University of Alberta
         location: Edmonton, Canada
-        area: Teaching
-        studyType: University Teaching Assistant
+        position: University Teaching Assistant
         start_date: 2021-01
         end_date: 2021-04
         highlights:
@@ -83,7 +80,7 @@ cv:
           - Provided coursework assistance to undergraduate students
           - 8 hours/week
 
-    Selected Projects:
+    Projects:
       - name: Reinforcement Learning for Control Theory
         area: Fraunhofer IIS
         start_date: Ongoing
@@ -150,15 +147,15 @@ cv:
       - language: German
         fluency: A2 (Basic)
 
-    Certifications:
+    Certificates:
       - name: GRE General Test
         issuer: ETS
         date: 2024-03
         highlights:
-          - Verbal Reasoning: 161/170, Quantitative Reasoning: 162/170, Analytical Writing: 3.5/6
+          - "Verbal Reasoning: 161/170, Quantitative Reasoning: 162/170, Analytical Writing: 3.5/6"
 
       - name: TOEFL iBT
         issuer: ETS
         date: 2024-01
         highlights:
-          - Total Score: 109/120 (Reading: 28, Listening: 30, Speaking: 23, Writing: 28)
+          - "Total Score: 109/120 (Reading: 28, Listening: 30, Speaking: 23, Writing: 28)"

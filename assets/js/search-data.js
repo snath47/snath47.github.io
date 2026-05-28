@@ -414,11 +414,21 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
+      },{id: "books-dynamical-systems-in-neuroscience",
+          title: 'Dynamical Systems in Neuroscience',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/dynamical-systems-neuroscience/";
+            },},{id: "books-neuronal-dynamics",
+          title: 'Neuronal Dynamics',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/neuronal-dynamics/";
+            },},{id: "books-nonlinear-dynamics-and-chaos",
+          title: 'Nonlinear Dynamics and Chaos',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/nonlinear-dynamics-chaos/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",

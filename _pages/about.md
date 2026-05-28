@@ -27,6 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a Master's candidate in **Data Science** at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU). My research interests lie at the intersection of machine learning, scientific computing, and high-performance computing.
+I'm a Master's candidate in **Data Science** at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), with a Bachelor's degree from Canada. My research focuses on the **nonlinear dynamics of coupled neural networks**, **stochastic resonance**, and **reservoir computing**.
 
-I'm passionate about building efficient AI systems, especially in the context of physics-informed neural networks and heterogeneous computing. My current work involves developing scalable ML solutions for complex scientific problems.
+My ongoing Master's thesis, supervised by Prof. Dr. Yamakou, investigates how structural heterogeneity shapes noise-driven signal enhancement in networks of coupled FitzHugh-Nagumo neurons. I have also designed Echo State Networks to forecast chaotic bursting in Hindmarsh-Rose neurons and studied physical nonlinear oscillators as computational substrates through Liquid State Machines.
+
+On the technical side, I'm proficient in **Python**, **MATLAB**, and **C++/Java**, and experienced with **JAX**, **PyTorch**, and **Scikit-Learn**. I manage large-scale numerical simulations on **HPC clusters** using SLURM. My work spans from Fraunhofer IIS, where I build world models with LSTMs and Mixture Density Networks, to the University of Alberta, where I implemented YOLO-based object detection for Arctic wildlife monitoring.
+
+Beyond research, I bring cross-disciplinary experience from Siemens Energy, where I communicated technical ideas across diverse audiences. I'm driven by the intersection of dynamical systems theory, machine learning, and high-performance computing — and I'm always eager to tackle complex scientific problems with computational tools.

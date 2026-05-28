@@ -7,7 +7,7 @@ first_name: Sandipan
 middle_name: 
 last_name: Nath
 description: >
-  Data Science MSc candidate at FAU with expertise in Machine Learning, Efficient and Brain Inspired AI, and Neuronal Dynamics.
+  Data Science MSc candidate at FAU with expertise in Machine Learning, Efficient and Brain Inspired AI, Neuronal Dynamics and Reinforcement Learning.
 icon: 🎓 # Changed to a graduation cap, but you can use any emoji
 url: https://snath47.github.io
 baseurl: "" # IMPORTANT: Keep this empty for snath47.github.io

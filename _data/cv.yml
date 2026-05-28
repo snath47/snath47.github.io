@@ -60,7 +60,7 @@ cv:
           - 15 hours/week
 
       - company: GaoTek Inc.
-        location: Toronto, Canada (Remote)
+        location: Toronto, Canada
         position: Software Development Intern
         start_date: 2023-05
         end_date: 2023-09
@@ -87,7 +87,7 @@ cv:
         highlights:
           - Building a world model using LSTM + Mixture Density Networks for complex system dynamics
           - Training a controller to balance a ball on an arc based on learned dynamics
-          - Skills: Python, Reinforcement Learning, LSTM, MDN, Control Theory
+          - "Skills: Python, Reinforcement Learning, LSTM, MDN, Control Theory"
 
       - name: Forecastability in Chaotic Neural Dynamics
         area: FAU Erlangen-Nürnberg
@@ -95,7 +95,7 @@ cv:
         highlights:
           - Built an Echo State Network to model Hindmarsh–Rose neurons in spiking, periodic bursting, and chaotic states
           - Explored the network's ability to forecast nonlinear and chaotic time series
-          - Skills: Reservoir Computing, ESN, Nonlinear Dynamics
+          - "Skills: Reservoir Computing, ESN, Nonlinear Dynamics"
 
       - name: Object Detection for Arctic Wildlife
         area: University of Alberta
@@ -103,7 +103,7 @@ cv:
         highlights:
           - Implemented YOLO-based object detection for caribou localization in camera trap images
           - Evaluated performance in Arctic conditions
-          - Skills: Python, Computer Vision, PyTorch, YOLO
+          - "Skills: Python, Computer Vision, PyTorch, YOLO"
 
       - name: Modelling Drug Effects in Tumor Cell Dynamics
         area: FAU Erlangen-Nürnberg
@@ -111,7 +111,7 @@ cv:
         highlights:
           - Fitted ODE models to describe cell growth, drug availability, and cell killing mechanisms
           - Simulated and predicted tumor growth responses to drug regimens
-          - Skills: ODE Modeling, Systems Biology, SciPy, Numerical Methods
+          - "Skills: ODE Modeling, Systems Biology, SciPy, Numerical Methods"
 
     Skills:
       - name: Programming Languages

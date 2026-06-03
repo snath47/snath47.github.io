@@ -85,7 +85,7 @@ ninja.data = [{
           title: 'Poster accepted at ICNCE 2026',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/2026-05-28-icnce-poster/";
+              window.location.href = "/news/2026-05-11-icnce-poster/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",

@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - snath47
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - snath47/LSTM_ball_cart
+  - snath47/FHN_network
+  - snath47/PathfindingIndianRail
+  - snath47/oncosys-M1
+  - snath47/ICML-PINN
+  - snath47/neural_dynamics

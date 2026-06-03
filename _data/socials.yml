@@ -4,7 +4,7 @@
 cv_pdf: /assets/pdf/resume_academic.pdf # path to your CV PDF file
 email: sandipan.nath@fau.de # your email address
 github_username: snath47 # GitHub username
-rss_icon: true # comment this line to hide the RSS icon
+# rss_icon: true # comment this line to hide the RSS icon
 # scholar_userid: your-google-scholar-id # uncomment and add your Google Scholar ID
 # inspirehep_id: your-inspirehep-id # uncomment if applicable
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)

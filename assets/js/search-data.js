@@ -81,6 +81,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/nonlinear-dynamics-chaos/";
+            },},{id: "news-poster-accepted-at-icnce-2026",
+          title: 'Poster accepted at ICNCE 2026',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-05-28-icnce-poster/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",

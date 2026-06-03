@@ -81,12 +81,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/nonlinear-dynamics-chaos/";
-            },},{id: "news-poster-accepted-at-icnce-2026",
-          title: 'Poster accepted at ICNCE 2026',
+            },},{id: "news-our-poster-effect-of-coupling-strength-heterogeneity-on-stochastic-resonance-in-small-world-networks-of-coupled-neurons-has-been-accepted-at-icnce-2026",
+          title: 'Our poster “Effect of coupling strength heterogeneity on stochastic resonance in small-world networks...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2026-05-11-icnce-poster/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {

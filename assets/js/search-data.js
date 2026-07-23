@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "Data Science MSc candidate at FAU with expertise in Machine Learning, Efficient and Brain Inspired AI, Neuronal Dynamics and Reinforcement Learning.",
+          description: "Data Science MSc candidate at FAU with expertise in Machine Learning, Efficient and Brain Inspired AI, Neuronal Dynamics and Reinforcement Learning. Download my full CV below.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";

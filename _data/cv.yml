@@ -5,11 +5,10 @@ cv:
   location: Erlangen, Germany
   image: ""
   summary: >
-    Data Scientist with a Bachelor of Science in Computing Science and hands-on experience in automation,
-    reinforcement learning, and data systems. Currently pursuing a Master of Science in Data Science at
-    FAU Erlangen-Nürnberg while working at Siemens Energy to optimize HVDC design tools through Python
-    and MATLAB. Specializing in machine learning, neural networks, reservoir computing, reinforcement
-    learning, and scalable data solutions.
+    Computer Scientist with research experience in the nonlinear dynamics of spiking neural networks, reservoir
+    computing, and reinforcement learning. Master’s candidate in Data Science at Friedrich-Alexander-Universität
+    Erlangen-Nürnberg (FAU). Incoming Doctoral Researcher at Technische Universität Graz, specializing in the
+    intersection of efficient, brain-inspired machine learning and deep learning.
 
   social_networks:
     - network: GitHub
@@ -19,6 +18,16 @@ cv:
 
   sections:
     Education:
+    - institution: Technische Universität Graz
+        location: Graz, Austria
+        url: https://www.tugraz.at/home
+        area: Computer Science
+        studyType: Doctor of Philosophy
+        start_date: 2026-09 (Expected)
+        end_date: 
+        highlights:
+          - PhD position focusing on integration of Spiking Neural Network (SNN) models into wireless communication systems.
+          
       - institution: Friedrich-Alexander-Universität Erlangen-Nürnberg
         location: Erlangen, Germany
         url: https://www.fau.de/
@@ -26,7 +35,7 @@ cv:
         studyType: Master of Science
         start_date: 2024-04
         end_date: Present
-        score: "1.3"
+        score: "1.2"
         highlights:
           - Current grade of 1.3 on a scale of 1.0 (best) to 5.0 (worst)
           - Research focus on nonlinear dynamics, stochastic resonance, and reservoir computing
@@ -47,11 +56,18 @@ cv:
           - Department of Mathematical Statistical Sciences Scholarship (2018)
 
     Experience:
+    - company: Technische Universität Graz
+        location: Graz, Austria
+        position: University Project Assistant
+        start_date: 2026-09
+        end_date: 
+        highlights:
+          - Staff member at the Institute of Machine Learning and Neural Computation.
       - company: Siemens Energy Global A.G.
         location: Erlangen, Germany
         position: Automation and Data Science Developer (Working Student)
         start_date: 2025-01
-        end_date: Present
+        end_date: 2026-07
         highlights:
           - Designed and implemented a centralized data management system to streamline data flow between HVDC system design tools
           - Built a consistent nomenclature system and supporting database from scratch using Python and MATLAB
@@ -82,10 +98,10 @@ cv:
     Projects:
       - name: Reinforcement Learning for Control Theory
         area: Fraunhofer IIS
-        start_date: Ongoing
+        start_date: Completed
         highlights:
-          - Building a world model using LSTM + Mixture Density Networks for complex system dynamics
-          - Training a controller to balance a ball on an arc based on learned dynamics
+          - Built a world model using LSTM for complex system dynamics
+          - Trained a controller to balance a ball on an arc based on learned dynamics
           - "Skills: Python, Reinforcement Learning, LSTM, MDN, Control Theory"
 
       - name: Forecastability in Chaotic Neural Dynamics
